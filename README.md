@@ -69,6 +69,15 @@
 
 ---
 
+<h3 align="center">🤝 Connect on LinkedIn</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-eliezer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
 <h3 align="center">📄 My CV</h3>
 <p align="center">
   <a href="https://github.com/JamesLuiz/JamesLuiz/blob/main/my-cv.pdf" target="_blank">
