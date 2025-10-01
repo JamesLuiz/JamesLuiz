@@ -68,3 +68,10 @@
 </p>
 
 ---
+
+<h3 align="center">📄 My CV</h3>
+<p align="center">
+  <a href="https://github.com/JamesLuiz/JamesLuiz/blob/main/my-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-%230A66C2.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+  </a>
+</p>
