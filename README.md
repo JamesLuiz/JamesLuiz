@@ -68,9 +68,3 @@
 </p>
 
 ---
-
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=jamesluiz&icon=2&color=12" />
-</p>
-
-<!-- Created with ❤️ and GPRM ( https://gprm.itsvg.in ) -->
