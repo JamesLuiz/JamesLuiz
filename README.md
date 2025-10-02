@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Eliezer James ✨</h1>
-<h3 align="center">🚀 Smart Contract Engineer | ⚙️ Backend Developer | ☁️ Cloud & Web3 Enthusiast</h3>
+<h3 align="center">🚀 Smart Contract & Web3 Engineer | ⚙️ Backend Developer | ☁️ Cloud Enthusiast</h3>
 
 ---
 
