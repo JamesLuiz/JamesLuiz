@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me  
-🌟 **Result-driven Smart Contract 🌟 Smart Contract & Blockchain Developer with 6+ years of hands-on experience in Web3 and backend engineering.
+🌟 Smart Contract & Blockchain Developer with 6+ years of hands-on experience in Web3 and backend engineering.
 
 🔐 Proficient in designing, auditing, and deploying secure smart contracts on EVM-compatible blockchains.
 
