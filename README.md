@@ -3,11 +3,19 @@
 
 ---
 
-## 💫 About Me  
-🌟 **Result-driven Smart Contract Engineer & Backend Developer** with **6+ years of experience** building secure, reliable, and scalable systems.  
-🔐 Skilled in **designing, auditing, and deploying smart contracts** across EVM-compatible chains.  
+## 💫 About Me  <br>
+🌟 **Result-driven Smart Contract Engineer & Backend Developer** with **6+ years of experience** in building secure, reliable, and scalable systems.
+
+<br>
+🔐 Skilled in **designing, auditing, and deploying smart contracts** across EVM-compatible chains.
+<br>
+
 ⚙️ Experienced in **developing robust backends** for Web2 and Web3 applications.  
+<br>
+
 🏢 Proven track record of delivering **practical, best-practice solutions** for startups and enterprises.  
+<br>
+
 🎯 Always eager to **innovate, solve problems, and contribute to business success**.  
 
 ---
